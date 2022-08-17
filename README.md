@@ -10,7 +10,7 @@ here you get to know about `library` of GENERIC data structures, which is built 
 * Key Features :- It Includes Data Structures like Singly Linked List , Doubly Linked list , Stack , Queue , Priority_Queue
                   AVL Tree , Heap , Arrays.
 
-*It is Useful for a User who are Working on `C` Projects.
+* It is Useful for a User who are Working on `C` Projects.
 * In `C++` , with the Help of STL we Can use all the Data Structures Directly 
  But  in `C` we need to write code from Scratch.
 * but Including This Generic Library we don't need to Write Code from scratch
